@@ -2,7 +2,7 @@
 
 Shell script designed to streamline and automate the installation process for Arch Linux.
 
-### ❓ Who should use this?
+## ❓ Who should use this?
 
 This script is tailored for users who:
 
